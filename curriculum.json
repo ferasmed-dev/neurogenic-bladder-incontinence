@@ -1,0 +1,45 @@
+{
+  "topic": "Neurogenic bladder and urinary incontinence",
+  "system": "Renal / urinary",
+  "specialty": "Urology",
+  "eciModule": "III — Formación clínica humana",
+  "typicalSubjects": [
+    "Fisiopatología",
+    "Urología",
+    "Neurología",
+    "Pediatría",
+    "Geriatría",
+    "Ginecología"
+  ],
+  "mirRelevant": true,
+  "keywords_es": [
+    "vejiga neurógena",
+    "shock medular",
+    "disinergia",
+    "disreflexia autonómica",
+    "autocateterismo",
+    "enuresis",
+    "vejiga hiperactiva",
+    "incontinencia de esfuerzo",
+    "malla suburetral",
+    "esfínter artificial",
+    "incontinencia funcional"
+  ],
+  "keywords_en": [
+    "neurogenic bladder",
+    "spinal shock",
+    "dyssynergia",
+    "autonomic dysreflexia",
+    "intermittent self-catheterisation",
+    "enuresis",
+    "overactive bladder",
+    "stress incontinence",
+    "mid-urethral sling",
+    "artificial urinary sphincter",
+    "functional incontinence"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ]
+}

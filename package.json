@@ -1,0 +1,9 @@
+{
+  "name": "neurogenic-bladder-incontinence",
+  "version": "1.0.0",
+  "description": "Interactive teaching simulator of neurogenic bladder by lesion level, autonomic dysreflexia, enuresis, overactive bladder, stress and functional incontinence. ES/EN.",
+  "type": "module",
+  "scripts": { "test": "node --test" },
+  "license": "MIT",
+  "author": "Feras Elhissi"
+}
